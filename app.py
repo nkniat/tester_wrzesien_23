@@ -1,0 +1,1 @@
+print("Hejka z GitHuba!")
