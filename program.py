@@ -1,1 +1,1 @@
-print("Hejka z PyCharma")
+print("Hejka z PyCharma, ktory jest bardzo przyjazny")
